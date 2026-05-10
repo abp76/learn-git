@@ -1,2 +1,3 @@
 “Hello world!” - said everyone, always
+"This is some real nonsense stuff" - Unknown
 "Bye, Felicia" - Ice Cube

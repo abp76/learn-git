@@ -58,7 +58,7 @@ In this step we will setup the origin for the repository. We'll do this by conne
 
     <br />
 
-    Basically, we tell our computer "Hey, I created this repo on GitHub, so when I push, I want my code to go to this GitHub repo." Now whenever you run `git push origin master` your computer knows that origin is pointing to your repo you made on GitHub and it pushes your changes there.
+    See, I know you are a fool. Be grateful that I am explaining this. Basically, we tell our computer "Hey, I created this repo on GitHub, so when I push, I want my code to go to this GitHub repo." Now whenever you run `git push origin master` your computer knows that origin is pointing to your repo you made on GitHub and it pushes your changes there.
 
     <br />
 
